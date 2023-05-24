@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thilini Perera</h1>
 <h3 align="center">A passionate back-end developer</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/551811b7cf59daa90eac76da3fc55b79d0dfe8893ece666702d2e911bf10c5f3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313331343437352f73637265656e73686f74732f333033313336382f6d652e676966">
+<img align="right" alt="coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thili-perera&label=Profile%20views&color=0e75b6&style=flat" alt="thili-perera" /> </p>
 
